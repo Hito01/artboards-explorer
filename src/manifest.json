@@ -1,0 +1,18 @@
+{
+  "identifier": "be.hito01.artboards-explorer",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Goto...",
+      "identifier": "artboards-explorer",
+      "script": "./artboards-explorer.js",
+      "shortcut": "ctrl shift g"
+    }
+  ],
+  "menu": {
+    "title": "Artboards explorer",
+    "items": ["artboards-explorer"]
+  }
+}
